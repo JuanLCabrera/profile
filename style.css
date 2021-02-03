@@ -81,6 +81,7 @@ ul {
 
 .fab {
     font-family: "Font Awesome 5 Brands";
+    font-size: 50px;
 }
 .fa-twitter-square {
     content: "\f081";
